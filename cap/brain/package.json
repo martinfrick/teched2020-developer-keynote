@@ -11,7 +11,7 @@
     "@sap/xb-msg-amqp-v100": "latest",
     "console-log-level": "^1.4.1",
     "express": "^4",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "prettier": "2.1.2"
